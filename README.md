@@ -1,4 +1,4 @@
-# 🦙 llama.rs
+# llama.rs
 
 Rust bindings and runtime integration layer for [`llama.cpp`](https://github.com/ggerganov/llama.cpp).
 
