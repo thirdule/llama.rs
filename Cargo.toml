@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "llama-core",
+    "llama-sys",
+    "llama-model",
+    "llama-runtime",
+    "llama-cli"
+]

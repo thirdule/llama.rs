@@ -1,0 +1,8 @@
+[package]
+name = "llama-runtime"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+llama-core = { path = "../llama-core" }
+llama-model = { path = "../llama-model" }
